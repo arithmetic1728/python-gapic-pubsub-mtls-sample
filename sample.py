@@ -5,7 +5,7 @@ import google.api_core.client_options as ClientOptions
 
 
 # Fill in your project_id.
-project_id = <your_project_id>
+project_id = "your_project_id"
 
 
 def list_topics():
